@@ -22,4 +22,3 @@ function countDown(num) {
 
 countDown(10);
 
-// this is a test to push remotely
